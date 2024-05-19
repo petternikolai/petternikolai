@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @petternikolai
 - 👀 I’m studying front-end development
-- 🌱 I’m currently learning HTML, CSS & Vanilla JavaScript
+- 🌱 I’m currently learning HTML, Bootstrap, CSS, SASS/SCSS, JavaScript and React.
 - 📫 How to reach me: pnkristoffersen@gmail.com
 
 <!---
