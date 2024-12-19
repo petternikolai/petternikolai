@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Petter-Nikolai Kristoffersen!
-- 🌍 Based in Norway, I’m finishing a 2-year program in Frontend Development at Noroff, graduating December 2024.
+- 🌍 Based in Norway, I finished a 2-year program in Frontend Development at Noroff in December 2024.
 - 💻 Skilled in HTML, CSS, SASS, JavaScript, React, and Rest API integration.
 - 🔧 Currently exploring TypeScript and diving deeper into React projects.
 - 💼 With professional experience as a Staffing Manager at Vy Buss and over 7 years at SAS Ground Handling, I bring a unique perspective to problem-solving and teamwork.
